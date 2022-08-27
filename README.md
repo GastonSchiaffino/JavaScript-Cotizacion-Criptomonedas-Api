@@ -6,4 +6,4 @@ El consumo de la api en este caso fue realizado mediante async await.
  https://gastonschiaffino.github.io/JavaScript-Cotizacion-Criptomonedas-Api/
 
 ### :tv: Home Screen
-![home](/assets/cotizador.png)
+![home](/img/cotizador.png)
